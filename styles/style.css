@@ -363,3 +363,72 @@ border-radius: 8px;
   padding: 17px 34px;
   background-color: #006A50;
 }
+.letter{
+  font-weight: 700;
+  font-size: 40px;
+  margin: 0 auto;
+  max-width: 1280px;
+  text-align: center;
+  margin-top: 180px;
+}
+.details{
+  font-weight: 400;
+  font-size: 16px;
+  margin: 0 auto;
+  max-width: 1280px;
+  text-align: center;
+  margin-top: 16px;
+}
+.text{
+  margin: 0 auto;
+  max-width: 1280px;
+  text-align: center;
+}
+.fill-up{
+  width: 1032px;
+  height: 20;
+  padding: 20px 40px;
+  margin: 0 auto;
+  max-width: 1280px;
+  text-align: center;
+  margin-top: 30px;
+  padding: 100;
+
+
+}
+.subs{
+  background-color: #006A50;
+}
+.conclusion{
+  margin: 0 auto;
+  max-width: 1280px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  color: #555555;
+}
+.end{
+  background-color: #C6E4D6;
+  margin: 0 auto;
+  max-width: 1280px;
+  height: 395px;
+  text-align: center;
+  padding: 30px 90px;
+  border-radius: 18px;
+  
+}
+.bangla{
+  margin: 0 auto;
+  max-width: 1280px;
+  text-align: center;
+  margin-top: 130px;
+  font-weight: 700;
+  font-size: 32px;
+}
+.icon{
+  
+  margin: 0 auto ;
+  max-width: 1280px;
+  text-align: center;
+  margin-left: 50px;
+}
