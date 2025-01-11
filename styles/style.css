@@ -1,0 +1,83 @@
+.fira-sans{
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+
+nav{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+           
+}
+.size{
+    font-weight: 700;
+    font-size: 32;
+    color: #0E0E0E;
+}
+.btn-one{
+font-weight: 600;
+    font-size: 18px;
+    color: #006A50;
+    background-color: white;
+    border-color: #006A50;
+    padding: 15px 30px;
+    border-radius: 8px;
+}
+.btn-one:hover{
+    background-color: #817b7b;
+  }
+  .banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+    padding: 80px 100px;
+  }
+  .page{
+    margin: 0 auto;
+  /* max-width: 1140px; */
+  }
+.content{
+    margin: 117px 64px 117px 59px;
+  } 
+  .title{
+    font-weight: 500;
+    font-size: 24px;
+    color: #817b7b;
+    margin-bottom: 16px;
+  }
+  .topic{
+    color: #0E0E0E;
+    font-weight: 700;
+    font-size: 56px;
+    width: 622px;
+    height: 201px;
+    margin-top: 16px;
+    margin-bottom: 24px;
+  }
+  .btn{
+    color: #FFFFFF;
+    background-color: #006A50;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 17px 34px;
+    border-radius: 8px;
+    margin-top: 24px;
+    border: none;
+  }
+  .btn:hover{
+    background-color: #817b7b;
+  }
+  .picture{
+    width: 474px;
+    height: 400px;
+    margin-right: 59px;
+  }
+  .middle{
+    margin: 0 auto;
+  max-width: 1140px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  }
