@@ -19,7 +19,7 @@ font-weight: 600;
     font-size: 18px;
     color: #006A50;
     background-color: white;
-    border-color: #006A50;
+    border: solid #006A50;
     padding: 15px 30px;
     border-radius: 8px;
 }
